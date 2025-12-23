@@ -1,10 +1,12 @@
 <div align="center"><img src="https://raw.githubusercontent.com/MrAminiDev/NetOptix/main/NetOptix4.JPG" width="500"></div>
 <div align="center"><br>
-
-  برای توضیحات <a href="https://github.com/MrAminiDev/NetOptix/blob/main/README-fa.md"> فارسی اینجا بزنید </a>
-
 </div>
 <br><br>
+
+# 安装脚本
+```
+bash <(curl -Ls https://raw.githubusercontent.com/chaoge1x/NetOptix-zh/refs/heads/main/NetOptix.sh)
+```
 
 # 什么是 NetOptix？
 NetOptix 是一个用于提高服务器质量和稳定性的工具。该工具能够通过利用软件和网络优化技术，显著提高系统和网络的性能。NetOptix 的主要目标包括提高服务质量、减少延迟、增加通信速度和改善资源管理。通过使用高级算法以及从服务和网络流量中收集的数据，NetOptix 能够提高系统和网络的性能，从而增强用户满意度。
@@ -44,14 +46,3 @@ NetOptix 是一个用于提高服务器质量和稳定性的工具。该工具�
 19. 添加 ClamAV 防病毒软件
 20. 自动 SSL Marzban
 21. 其他功能即将推出...
-
-# 安装脚本
-要安装，只需在您的服务器上运行以下命令
-```
-bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/NetOptix/main/NetOptix.sh)
-```
-##  使用加密货币支持 
-- TRX : `TQhwK6q94GgpUZSsHBjiUWc6xAHz5Df9mW`
-
-## 随时间变化的点赞者
-[![随时间变化的点赞者](https://starchart.cc/MrAminiDev/NetOptix.svg?variant=adaptive)](https://starchart.cc/MrAminiDev/NetOptix)
