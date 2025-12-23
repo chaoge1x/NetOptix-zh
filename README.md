@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/MrAminiDev/NetOptix/main/NetOptix4.JPG" width="500"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/chaoge1x/NetOptix-zh/main/NetOptix4.png" width="500"></div>
 <div align="center"><br>
 </div>
 <br><br>
